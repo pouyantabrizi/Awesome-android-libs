@@ -22,6 +22,7 @@ No. | Name | Description
 No. | Name | Description
 --- | --- | ---
 **01** | **[AppIntro](https://github.com/paolorotolo/AppIntro)** | AppIntro is an Android Library that helps you make a cool intro for your app with help to get Runtime Permissions
+**02** | **[MaterialAppIntro](https://github.com/TangoAgency/material-intro-screen) ** | App intro with good features and setable features such as needed premissions and needed agreements
 ---
 
 ## About Me
